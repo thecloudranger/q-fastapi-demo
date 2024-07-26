@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# PyCharm IDE
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
